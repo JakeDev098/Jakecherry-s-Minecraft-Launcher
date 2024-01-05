@@ -1,0 +1,17 @@
+[12:46:44] [Client thread/INFO]: LWJGL Version: 2.9.4
+[12:46:51] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:EntityCulling, FMLFileResourcePack:examplemod, FMLFileResourcePack:FoamFix, FMLFileResourcePack:FPS Reducer, FMLFileResourcePack:LabyMod, FMLFileResourcePack:TextureFix, §bSkyline.zip
+[12:46:52] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:46:52] [Thread-9/INFO]: Initializing LWJGL OpenAL
+[12:46:52] [Thread-9/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:46:52] [Thread-9/INFO]: OpenAL initialized.
+[12:46:53] [Sound Library Loader/INFO]: Sound engine started
+[12:46:54] [Client thread/INFO]: Created: 8x8 textures-atlas
+[12:46:59] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:EntityCulling, FMLFileResourcePack:examplemod, FMLFileResourcePack:FoamFix, FMLFileResourcePack:FPS Reducer, FMLFileResourcePack:LabyMod, FMLFileResourcePack:TextureFix, §bSkyline.zip
+[12:46:59] [Client thread/INFO]: SoundSystem shutting down...
+[12:46:59] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[12:46:59] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[12:46:59] [Thread-12/INFO]: Initializing LWJGL OpenAL
+[12:46:59] [Thread-12/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[12:46:59] [Thread-12/INFO]: OpenAL initialized.
+[12:46:59] [Sound Library Loader/INFO]: Sound engine started
+[12:47:01] [Client thread/INFO]: Created: 1024x512 textures-atlas
